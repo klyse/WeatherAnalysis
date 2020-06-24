@@ -1,4 +1,4 @@
-date;precipitation;minTemp;maxTemp
+date;precipitation;maxTemp;minTemp
 01.01.1986;0.4;-1.0;-4.0
 02.01.1986;0.8;-2.0;-4.0
 03.01.1986;0.2;0.0;-5.0
