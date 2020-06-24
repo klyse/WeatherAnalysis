@@ -1,6 +1,8 @@
 # Weather analisis of Brunico
 
-Playing around with Jupyter Notebook
+Playing around with Jupyter Notebook.
+
+Jump to notebook file https://github.com/klyse/WeatherAnalysis/blob/master/Data/Analysis.ipynb
 
 Source Data: http://wetter.provinz.bz.it/download-messdaten.asp
 
